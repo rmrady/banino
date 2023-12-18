@@ -1,0 +1,16 @@
+@font-face {
+    font-family: iranSans;
+    src: url(./font/IRANSansWeb\(FaNum\).woff2);
+}
+
+body{
+    font-family: iranSans;
+}
+
+.parent-ul{
+    transition: all 600ms ease 0s;
+}
+
+.parent-modal{
+    transition: all 800ms ease 0s;
+}
