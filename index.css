@@ -14,3 +14,7 @@ body{
 .parent-modal{
     transition: all 800ms ease 0s;
 }
+
+.new-div{
+    transition: all 800ms ease 0s;
+}
