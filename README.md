@@ -21,14 +21,14 @@ An awesome website template to practice  projects!
 
 ![Product Screenshot](img/readme.png)
 
-I am learning APIs and decided to choose this site as a small exercise for myself
+I am learning API and decided to choose this site as a small exercise for myself
  ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+this website is made with:
 
 - [Html](https://html.com)
 - [Css](https://css.com)
-- [tailwind](https://tailwind.com)
+- [tailwind](https://tailwindcss.com)
 - [JavaScript](https://javascript.com)
  ## Contact
 
